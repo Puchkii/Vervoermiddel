@@ -1,5 +1,7 @@
 public class Auto extends Vervoermiddel {
 
+	//declareren
+
 	private int weight;
 	private double tax;
 
